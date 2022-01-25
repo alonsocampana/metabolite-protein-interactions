@@ -15,3 +15,4 @@ The code is split along several files:
 The project contains also several examples of driver code:
 - hyperparameter_optimization.ipynb: Contains the code used for doing hyperparameter optimization and comparing the ROC curves of the different modeling approaches.
 - metabolite_protein_interactions.ipynb: Contains code assessing the behaviour of the model for pairs consisting of different protein families and metabolites.
+- DL_model_mutation_effect.ipynb: Testing the effects of different levels of mutations on the predictions performed by the deep architecture
